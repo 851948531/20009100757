@@ -63,8 +63,7 @@ void SMG_display(int num)
         digitalWrite(pin3,HIGH);
         digitalWrite(pin4,LOW);
     	break;  
-    case '5'
-      :
+    case '5':
     	digitalWrite(pin1,HIGH);
         digitalWrite(pin2,LOW);
         digitalWrite(pin3,HIGH);
